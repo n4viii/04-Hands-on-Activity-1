@@ -1,0 +1,11 @@
+C:\Users\caparros.428518\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\obj\Debug\Student_Grade_Application.frmStudentGradeProgram.resources
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.Properties.Resources.resources
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.GenerateResource.cache
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe.config
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.pdb
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.exe
+C:\Users\ivanc\source\repos\04-Hands-on-Activity-1\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.pdb
