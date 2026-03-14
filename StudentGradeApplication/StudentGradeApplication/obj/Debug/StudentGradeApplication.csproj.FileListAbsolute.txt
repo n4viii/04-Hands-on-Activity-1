@@ -1,1 +1,0 @@
-C:\Users\caparros.428518\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
